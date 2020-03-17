@@ -31,7 +31,7 @@ When there is already a deed of gift or other formalization of a collecting rela
 
 Restrictions on crawling as recorded in robots.txt files will be considered as part of the decision to crawl. If critical components of the site, such as photographs or stylesheets, are blocked by robots.txt, the restriction will be ignored provided that the UGA Libraries has a collecting relationship with the website owner or has previously notified the website owner of the intent to crawl and received no objection.
 
-The owner of the intellectual property rights of any content crawled by the UGA Libraries may request that archived content be removed from the Archive-It website. Requests are reviewed by the department head of the collecting library, and the University Librarian if warranted. This procedure is detailed in the [Take Down Policy](take-down-policy).
+The owner of the intellectual property rights of any content crawled by the UGA Libraries may request that archived content be removed from the Archive-It website. Requests are reviewed by the department head of the collecting library, and the University Librarian if warranted. This procedure is detailed in the [Take Down Policy](take-down-policy.md).
 
 
 # Access
