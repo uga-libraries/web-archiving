@@ -52,3 +52,5 @@ Please note that other entities, including the Internet Archive's Wayback Machin
 Thank you for your request to remove [description of content] from the UGA Libraries websites. We can only remove content from our website at the request of the copyright holder. Based on the information provided, we determined that you are not the copyright holder and so we are unable to comply with your request.
 
 If you feel that this determination is in error, please provide us with additional information regarding your ownership of the content in question and we will review the request again.
+
+<!-- Docs to Markdown version 1.0β19 -->
