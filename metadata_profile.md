@@ -1,5 +1,6 @@
-UGA Web Archives Metadata Profile, July 2019
-============================================
+UGA Web Archives Metadata Profile 
+=================================
+July 2019
 
 # Purpose and Scope
 
