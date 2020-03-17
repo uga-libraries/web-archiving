@@ -7,15 +7,15 @@ This workflow provides an overview of the steps involved in web crawling, with l
 
 # Workflow Overview
 
-1. [Select Seeds to crawl](#select-seeds-to-crawl)
-2. [Obtain permissions](#obtain-permissions)
-3. [Add seeds to the seed list](#add-seeds-to-the-seed-list)
-4. [Add seeds to collections](#add-seeds-to-collections)
-5. [Crawl the seeds](#crawl-the-seeds)
-6. [Quality assurance](#quality-assurance)
-7. [Add seed metadata](#add-seed-metadata)
-8. [Make the seeds public](#make-the-seeds-public)
-9. [Preservation](#preservation)
+1. Select Seeds to crawl
+2. Obtain permissions
+3. Add seeds to the seed list
+4. Add seeds to collections
+5. Crawl the seeds
+6. Quality assurance
+7. Add seed metadata
+8. Make the seeds public
+9. Preservation
 
 # Workflow Steps
 
