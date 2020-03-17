@@ -27,7 +27,7 @@ The UGA Libraries will collect websites and social media accounts related to the
 
 # Permissions to Crawl
 
-When there is already a deed of gift or other formalization of a collecting relationship, no further permissions will be required prior to crawling web content. In all other cases, the UGA Libraries will send the website owner a notification of our intent to collect the site and offer them the option of declining. Unless requested not to crawl by the website owner within a month, the UGA Libraries will proceed with collecting the site.
+When there is already a deed of gift or other formalization of a collecting relationship, no further permissions will be required prior to crawling web content. In all other cases, the UGA Libraries will send the website owner a notification of our intent to collect the site and offer them the option of declining. Unless requested not to crawl by the website owner within four weeks, the UGA Libraries will proceed with collecting the site.
 
 Restrictions on crawling as recorded in robots.txt files will be considered as part of the decision to crawl. If critical components of the site, such as photographs or stylesheets, are blocked by robots.txt, the restriction will be ignored provided that the UGA Libraries has a collecting relationship with the website owner or has previously notified the website owner of the intent to crawl and received no objection.
 
