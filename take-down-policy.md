@@ -13,7 +13,7 @@ The copyright holder of the content.
 
 ## Who approves or denies requests
 
-The department head of the unit that makes the content available online.
+The head of the department that makes the content available online.
 
 ## Content covered by this policy
 
@@ -25,9 +25,9 @@ Archived web content that the UGA Libraries has made available online, including
 
 2. The department head confirms that the requestor is the copyright holder and if so approves the request. If not, the request is denied. If there is uncertainty about how the request should be handled, the department head confers with the University Librarian. During this time, the content generally remains available online. If the request is sensitive, public access to the content can be suspended during review.
 
-3. The department head sends a written response to the requester within 5 business days. Sample responses are provided on the next page.
+3. The department head sends a written response to the requester within 5 business days. Sample responses are provided in the next section, [Example Letters](#example-letters).
 
-4. If the request is approved, the department head notifies the administrator of the UGA Libraries Archive-It account (Adriane Hanson) and the staff member in their unit responsible for web archiving.
+4. If the request is approved, the department head notifies the administrator of the UGA Libraries Archive-It account (Head of Digital Stewardship, Adriane Hanson) and the staff member in their department responsible for web archiving.
 
     The account administrator submits a request to the Internet Archive to remove all access to the content from the site. This typically takes 24 hours to take effect.
 
