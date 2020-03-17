@@ -1,7 +1,7 @@
 UGA Archived Web Content Take Down Policy
 ======
 September 2019
-======
+
 
 # Policy Overview and Scope
 
