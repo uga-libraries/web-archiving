@@ -73,11 +73,11 @@ It is our practice to always run a test crawl on a new site, and any time a site
 
 *   Each test crawl should include just one seed or a few similar seeds because test crawls must be saved or deleted in their entirety.
 
-*   The standard crawl only captures sites from the seed domain. To capture sites linked from the seed as well, [use a different seed type](https://support.archive-it.org/hc/en-us/articles/208332843-Assign-and-edit-a-seed-type-).</span>
+*   The standard crawl only captures sites from the seed domain. To capture sites linked from the seed as well, [use a different seed type](https://support.archive-it.org/hc/en-us/articles/208332843-Assign-and-edit-a-seed-type-).
 
-*   Adjust the [scoping rules.](https://support.archive-it.org/hc/en-us/articles/360015086931-Modify-your-collection-or-seed-scope)
+*   Adjust the [scoping rules.](https://support.archive-it.org/hc/en-us/articles/360015086931-Modify-your-collection-or-seed-scope).
 
-    *   Default scoping rules are applied automatically for social media sites. For additional specificity, see [scoping guidance for specific types of sites.](https://support.archive-it.org/hc/en-us/articles/208001336-Scoping-guidance-for-specific-types-of-sites)
+    *   Default scoping rules are applied automatically for social media sites. For additional specificity, see [scoping guidance for specific types of sites.](https://support.archive-it.org/hc/en-us/articles/208001336-Scoping-guidance-for-specific-types-of-sites).
 
     *   You may also need to use [regular expressions](https://support.archive-it.org/hc/en-us/articles/208332963-Modify-crawl-scope-with-a-Regular-Expression) to exclude other languages from Twitter.
 
@@ -108,7 +108,7 @@ You have 60 days to review and save a test crawl before the content (but not its
 
 *   If you didn't get what you want, adjust the scope (see Step 5) and run another crawl.
 
-    * You might also [crawl missing pages as separate seeds](https://support.archive-it.org/hc/en-us/articles/208333833-Quality-Assurance-Overview#Crawl)
+    * You might also [crawl missing pages as separate seeds](https://support.archive-it.org/hc/en-us/articles/208333833-Quality-Assurance-Overview#Crawl).
 
     * For errors in capturing dynamic content try [a Brozzler crawl instead](https://support.archive-it.org/hc/en-us/articles/360000351986-How-and-when-to-use-Brozzler).
 
@@ -123,7 +123,7 @@ You have 60 days to review and save a test crawl before the content (but not its
 
 *   Describe the site even if we cannot provide access yet, but do include a rights statement with the restriction information.
 
-*   Add metadata to Archive-It for [the seed](https://support.archive-it.org/hc/en-us/articles/360014464192-Add-and-Edit-Seed-Level-Metadata-). You can also [batch add or update seed metadata](https://support.archive-it.org/hc/en-us/articles/208012996-Upload-and-download-metadata) via a spreadsheet. This must be completed prior to the quarterly preservation downloads
+*   Add metadata to Archive-It for [the seed](https://support.archive-it.org/hc/en-us/articles/360014464192-Add-and-Edit-Seed-Level-Metadata-). You can also [batch add or update seed metadata](https://support.archive-it.org/hc/en-us/articles/208012996-Upload-and-download-metadata) via a spreadsheet. This must be completed prior to the quarterly preservation downloads.
 
 *   Add a description of the archived site in the finding aid if there is a related collection. We generally add web archives as a separate series since the wide variety of content in a site is unlikely to fit into an existing series.
 
@@ -136,7 +136,7 @@ You have 60 days to review and save a test crawl before the content (but not its
 
 *   A private seed can be located within a public collection and will not be visible online until it is public.
 
-*   You can change the private/public status of a[ single seed](https://support.archive-it.org/hc/en-us/articles/208334003-Controlling-access-to-your-web-archives-#Howtorestrictaccesstoyourwebarchives-Howtomakeaspecificseedwithinyourcollectionprivateorpublic) or a [batch of seeds.](https://support.archive-it.org/hc/en-us/articles/208334003-Controlling-access-to-your-web-archives-#Howtorestrictaccesstoyourwebarchives-Howtomakemultipleseedswithinyourcollectionprivateorpublic)
+*   You can change the private/public status of a[ single seed](https://support.archive-it.org/hc/en-us/articles/208334003-Controlling-access-to-your-web-archives-#Howtorestrictaccesstoyourwebarchives-Howtomakeaspecificseedwithinyourcollectionprivateorpublic) or a [batch of seeds.](https://support.archive-it.org/hc/en-us/articles/208334003-Controlling-access-to-your-web-archives-#Howtorestrictaccesstoyourwebarchives-Howtomakemultipleseedswithinyourcollectionprivateorpublic).
 
 
 ## 9. Preservation
