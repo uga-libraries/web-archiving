@@ -31,9 +31,15 @@ Archived web content that the UGA Libraries has made available online, including
 
 4. If the request is approved, the department head notifies the administrator of the UGA Libraries Archive-It account (Head of Digital Stewardship, Adriane Hanson) and the staff member in their department responsible for web archiving.
 
-    The account administrator submits a request to the Internet Archive to remove all access to the content from the site. This typically takes 24 hours to take effect.
+    * The account administrator submits a request to the Internet Archive to remove all access to the content from the site. This typically takes 24 hours to take effect.
 
-    The staff member updates any online description of the web content to indicate that it has been removed at the request of the copyright holder, adds a restriction note to the content in the preservation system, and adds a note to any internal collection management documentation.
+    * The staff member:
+    
+        * Adds a restriction note to any copies in the preservation system (ARCHive) and downloads and adds the most recent crawl of the site if not yet in ARCHive. Access can be provided after copyright ends.
+        
+        * Updates any online description of the web content to indicate that it has been removed at the request of the copyright holder.
+        
+        * Adds a note to any internal collection management documentation.
 
 5. A copy of all correspondence between the UGA Libraries and the requester is kept in the department's permanent records, regardless of if the request is approved or denied.
 
