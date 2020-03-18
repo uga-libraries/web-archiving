@@ -37,7 +37,7 @@ Archived web content that the UGA Libraries has made available online, including
     
         * Adds a restriction note to any copies in the preservation system (ARCHive) and downloads and adds the most recent crawl of the site if not yet in ARCHive. Access can be provided after copyright ends.
         
-        * Updates any online description of the web content to indicate that it has been removed at the request of the copyright holder.
+        * Updates any online description of the web content to indicate that it has been restricted at the request of the copyright holder.
         
         * Adds a note to any internal collection management documentation.
 
