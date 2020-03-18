@@ -41,7 +41,13 @@ Unless otherwise requested by the site owner, access to crawls is provided immed
 
 # Roles and Responsibilities
 
-The Head of Digital Stewardship serves as the administrator of the account and coordinates the program. A group composed of the account administrator and a representative from each department that is actively web archiving make decisions about the program, with input from departments that are considering web archiving in the future.
+The administrator and crawlers make decisions about the program collectively, with input from departments that are considering web archiving in the future as appropriate. This includes managing use of the quota, deciding on the quota required for the next year, and changes to policies and procedures.
+
+* **Administrator:** The Head of Digital Stewardship serves as the administrator of the account and coordinates the program. They manage user accounts and onboard new users, oversee subscription renewals, facilitate communicate between users of Archive-It, and monitor the web archiving landscape to keep our policies and practices in line with professional best practices. Permissions in Archive-It: Administrator.
+
+* **Crawlers:** The primary users of the account. Their responsibilities include running test crawls, quality assurance, saving content to permanent collections, and creating metadata. Permissions in Archive-It: User.
+
+* **Testers:** Users who are considering adopting web archiving for their department. They can view crawl reports and private sites in the Wayback Machine. They may not save content to permanent collections. The administrator runs test crawls for them. Permissions in Archive-It: Contributor.
 
 
 <!-- Docs to Markdown version 1.0β19 -->
