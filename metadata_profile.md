@@ -2,6 +2,12 @@ UGA Web Archives Metadata Profile
 =================================
 July 2019
 
+Document sections:
+* [Purpose and Scope](#purpose-and-scope)
+* [Background](#background)
+* [Metadata Fields](#metadata-fields)
+* [Description Examples](#description-examples)
+
 # Purpose and Scope
 
 Use this metadata profile to create consistent metadata for describing all archived websites and social media sites (hereafter "sites") at UGA to make it easier for researchers to work with content collected by multiple departments and easier to aggregate and share the metadata in other descriptive systems.
