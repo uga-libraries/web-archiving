@@ -66,10 +66,32 @@ This case study explores the formation, current membership, and future goals  of
 The Archivesspace-DO-Plugin includes an endpoint designed for integration with Archive-It. The endpoint generates a json response that provides the title, number of digital objects, and a link to provide a user with more information about a collection for a resource in Archivesspace. The URL can be used to create a link between a resource in Archivesspace and a see URL that has been archived in Archive-It.
 </br></br>
 
+[**Bartczak, Jeremy, Elizabeth Wilkinson, and Lauren Work (2018) "University of Virginia Web Archiving Metadata Application Profile, Version 1.0"**](https://docs.google.com/document/d/1M5kTUtUjob7YB7MpEd_Jl5lRsuZprxNZQZ6rELmJjeE)
+
+This application profile provides a consolidated set of resources for standardizing and streamlining descriptive metadata workflows for web archives at the University of Virginia Library. The Library uses the Archive-It web archiving tool, which includes a Dublin Core compliant metadata editor, to perform this work. The Element Set is a list of required and optional Dublin Core fields (with the exception of Collector) along with notes for element refinement or additional explanation.
+</br></br>
+
 [**describingWebArchives, University of Albany**](https://github.com/UAlbanyArchives/describingWebArchives)
 
 Automating description for Web Archives in ArchivesSpace using the Archive-It CDX and Partner Data APIs. This script looks for a specific subject in ArchivesSpace and if the archival objects assigned to that subject have a phystech note with the URL of the web archives collection, it will append child objects for each unique capture with details from &lt;meta> tags and provenance information from the Archive-It partner data API. It will add digital objects with links to archives web pages, and finally it will update dates and extents for all parent objects.
 </br></br>
+
+[**Dooley, Jackie, and Kate Bowers. 2018. _Descriptive Metadata for Web Archiving: Recommendations of the OCLC Research Library Partnership Web Archiving Metadata Working Group_. Dublin, OH: OCLC Research**](https://doi.org/10.25333/C3005C)
+
+WAM's overall objective was to develop practices for creating consistent metadata that address the unique characteristics of websites and collections. More specifically:
+
+*   Develop community-neutral, standards-neutral practices for descriptive metadata for archived web content, taking into account the needs of end users and metadata practitioners.
+*   Define a lean set of data elements with usage notes to guide the preparation of data content.
+*   Ensure that the data elements can be used in concert with other standards that have far more granular data element sets.
+*   Provide a bridge between bibliographic and archival approaches to description.
+*   Use a scalable approach that requires neither in-depth description nor extensive changes to records over time.
+*   Enable practitioners to have confidence that they are contributing to the application of consistent practice in this emerging area.
+</br></br>
+
+[**Guenther, Rebecca (2018) "Metadata Application Profile for Description of Websites with Archived Versions, Version 2," New York Art Resources Consortium Web Archiving Initiative**](https://sites.google.com/site/nyarc3/web-archiving/8-metadata-for-web-archives)
+
+This document specifies the core elements that are recommended for describing websites that are both live and have been archived.  It was developed as part of the New York Art Resources Consortium’s Web Archiving Initiative to document web versions of specialist art resources, such as auction catalogues, catalogues raisonnés, artists’ websites, etc. The profile may also be used for other types of web resources for which it is desirable to create rich metadata beyond that which is captured as part of web archiving tools.
+
 
 [**O'Dell, Allison Jai (2015) "Describing Web Collections," _Medium**](https://medium.com/@allisonjaiodell/describing-web-collections-e32b59893848)
 
@@ -96,32 +118,6 @@ The following is a guest post by Andra Stump of GPO contractor Zimmerman Associa
 [**Young, Scott W. H., Jason A. Clark, Sara Mannheimer, and Lisa Janicke Hinchliffe (2019) "National Web Privacy Forum Action Handbook," Montana State University**](http://dx.doi.org/10.15788/20190416.15446)
 
 This is a practice-oriented action handbook that provides background, resources, and good practices to guide libraries in ethically implementing web analytics with a view towards privacy. This guide contains two main parts, followed by a references section. In Part 1, we detail technical strategies for implementing privacy-aware web analytics. In Part 2, we focus on communication strategies for building support for privacy-aware analytics practices.
-
-
-# Metadata Models
-
-_The [case studies](#case-studies) often include the metadata models as well._
-
-[**Bartczak, Jeremy, Elizabeth Wilkinson, and Lauren Work (2018) "University of Virginia Web Archiving Metadata Application Profile, Version 1.0"**](https://docs.google.com/document/d/1M5kTUtUjob7YB7MpEd_Jl5lRsuZprxNZQZ6rELmJjeE)
-
-This application profile provides a consolidated set of resources for standardizing and streamlining descriptive metadata workflows for web archives at the University of Virginia Library. The Library uses the Archive-It web archiving tool, which includes a Dublin Core compliant metadata editor, to perform this work. The Element Set is a list of required and optional Dublin Core fields (with the exception of Collector) along with notes for element refinement or additional explanation.
-</br></br>
-
-[**Dooley, Jackie, and Kate Bowers. 2018. _Descriptive Metadata for Web Archiving: Recommendations of the OCLC Research Library Partnership Web Archiving Metadata Working Group_. Dublin, OH: OCLC Research**](https://doi.org/10.25333/C3005C)
-
-WAM's overall objective was to develop practices for creating consistent metadata that address the unique characteristics of websites and collections. More specifically:
-
-*   Develop community-neutral, standards-neutral practices for descriptive metadata for archived web content, taking into account the needs of end users and metadata practitioners.
-*   Define a lean set of data elements with usage notes to guide the preparation of data content.
-*   Ensure that the data elements can be used in concert with other standards that have far more granular data element sets.
-*   Provide a bridge between bibliographic and archival approaches to description.
-*   Use a scalable approach that requires neither in-depth description nor extensive changes to records over time.
-*   Enable practitioners to have confidence that they are contributing to the application of consistent practice in this emerging area.
-</br></br>
-
-[**Guenther, Rebecca (2018) "Metadata Application Profile for Description of Websites with Archived Versions, Version 2," New York Art Resources Consortium Web Archiving Initiative**](https://sites.google.com/site/nyarc3/web-archiving/8-metadata-for-web-archives)
-
-This document specifies the core elements that are recommended for describing websites that are both live and have been archived.  It was developed as part of the New York Art Resources Consortium’s Web Archiving Initiative to document web versions of specialist art resources, such as auction catalogues, catalogues raisonnés, artists’ websites, etc. The profile may also be used for other types of web resources for which it is desirable to create rich metadata beyond that which is captured as part of web archiving tools.
 
 
 # State of the Field Surveys
