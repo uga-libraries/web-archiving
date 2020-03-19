@@ -104,7 +104,7 @@ This is a practice-oriented action handbook that provides background, resources,
 
 # Metadata Models
 
-_The case studies often include the metadata models as well._
+_The [case studies](#case-studies) often include the metadata models as well._
 
 [**Bartczak, Jeremy, Elizabeth Wilkinson, and Lauren Work (2018) "University of Virginia Web Archiving Metadata Application Profile, Version 1.0".**](https://docs.google.com/document/d/1M5kTUtUjob7YB7MpEd_Jl5lRsuZprxNZQZ6rELmJjeE)
 
