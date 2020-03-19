@@ -28,7 +28,7 @@ The increasing use and prominence of web archives raises the urgency of establis
 Covers text mining, link analysis, analysis of technology trends, geographic analysis and mapping, persistent linking, access to deleted or modified content, accountability, historic preservation, and outreach and education.
 </br></br>
 
-[**Riley, Harriet and Mark Crookston (2015) "Awareness and Use of the New Zealand Web Archive: A survey of New Zealand Academics" _National Library of New Zealand Report**](https://natlib.govt.nz/librarians/reports-and-research/use-of-the-nz-web-archive)
+[**Riley, Harriet and Mark Crookston (2015) "Awareness and Use of the New Zealand Web Archive: A survey of New Zealand Academics," National Library of New Zealand Report**](https://natlib.govt.nz/librarians/reports-and-research/use-of-the-nz-web-archive)
 
 This research gives us a greater understanding of the awareness and use our collection of archived websites by university academics, and will help us explore future archiving options. As the Library developed New Zealand’s web archive, we often stated that the activity was not for current researchers, but for our future generations to use as a resource to understand the present. As such, we emphasised collecting and preserving over improving discovery, access and usability. The results of this survey not only show that there’s a demand that is current, but more is wanted and expected from this unique resource in the very near future. When it comes to the history of the New Zealand web, the academic community are telling us that the future is now.
 </br></br>
