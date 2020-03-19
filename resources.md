@@ -30,17 +30,13 @@ Covers text mining, link analysis, analysis of technology trends, geographic ana
 
 [**Riley, Harriet and Mark Crookston (2015) "Awareness and Use of the New Zealand Web Archive: A survey of New Zealand Academics" _National Library of New Zealand Report_.**](https://natlib.govt.nz/librarians/reports-and-research/use-of-the-nz-web-archive)
 
-This research gives us a greater understanding of the awareness and use our collection of archived websites by university academics, and will help us explore future archiving options.
-
-As the Library developed New Zealand’s web archive, we often stated that the activity was not for current researchers, but for our future generations to use as a resource to understand the present. As such, we emphasised collecting and preserving over improving discovery, access and usability.
-
-The results of this survey not only show that there’s a demand that is current, but more is wanted and expected from this unique resource in the very near future. When it comes to the history of the New Zealand web, the academic community are telling us that the future is now.
+This research gives us a greater understanding of the awareness and use our collection of archived websites by university academics, and will help us explore future archiving options. As the Library developed New Zealand’s web archive, we often stated that the activity was not for current researchers, but for our future generations to use as a resource to understand the present. As such, we emphasised collecting and preserving over improving discovery, access and usability. The results of this survey not only show that there’s a demand that is current, but more is wanted and expected from this unique resource in the very near future. When it comes to the history of the New Zealand web, the academic community are telling us that the future is now.
 </br></br>
 
 [**School of Information Management and Systems, U.C. Berkeley (2002) "Recommendations for Managing Removal Requests and Preserving Archival Integrity".**](http://groups.ischool.berkeley.edu/archive/aps/removal-policy)
 </br></br>
 
-[**Venlet, Jessica, Karen Stoll Farrell, Tammy Kim, Allison Jai O’Dell, and Jackie Dooley. 2018. _Descriptive Metadata for Web Archiving: Literature Review of User Needs._ Dublin, OH: OCLC Research**](https://doi.org/10.25333/C33P7Z).
+[**Venlet, Jessica, Karen Stoll Farrell, Tammy Kim, Allison Jai O’Dell, and Jackie Dooley. 2018. _Descriptive Metadata for Web Archiving: Literature Review of User Needs._ Dublin, OH: OCLC Research.**](https://doi.org/10.25333/C33P7Z).
 
 This review characterizes types of end users, their research methodologies, barriers to use, discovery interfaces, and the need for support services and outreach. The review of practitioner literatures addresses the need for scalable practices, the standards and shared practices currently in use, the outcomes of a variety of case studies and other approaches to metadata.
 
@@ -72,7 +68,7 @@ The Archivesspace-DO-Plugin includes an endpoint designed for integration with A
 
 [**describingWebArchives, University of Albany**](https://github.com/UAlbanyArchives/describingWebArchives)
 
-Automating description for Web Archives in ArchivesSpace using the Archive-It CDX and Partner Data APIs. This script looks for a specific subject in ArchivesSpace and if the archival objects assigned to that subject have a phystech note with the URL of the web archives collection, it will append child objects for each unique capture with details from &lt;meta> tags and provenance information from the Archive-It partner data API. It will add digital objects with links to archives web pages, and finally it will update dates and extents for all parent objects
+Automating description for Web Archives in ArchivesSpace using the Archive-It CDX and Partner Data APIs. This script looks for a specific subject in ArchivesSpace and if the archival objects assigned to that subject have a phystech note with the URL of the web archives collection, it will append child objects for each unique capture with details from &lt;meta> tags and provenance information from the Archive-It partner data API. It will add digital objects with links to archives web pages, and finally it will update dates and extents for all parent objects.
 </br></br>
 
 [**O'Dell, Allison Jai (2015) "Describing Web Collections," _Medium_.**](https://medium.com/@allisonjaiodell/describing-web-collections-e32b59893848)
@@ -121,8 +117,6 @@ WAM's overall objective was to develop practices for creating consistent metadat
 *   Provide a bridge between bibliographic and archival approaches to description.
 *   Use a scalable approach that requires neither in-depth description nor extensive changes to records over time.
 *   Enable practitioners to have confidence that they are contributing to the application of consistent practice in this emerging area.
-
-WAM's recommended practices can be used by any institution or person with a need to describe web content.
 </br></br>
 
 [**Guenther, Rebecca (2018) "Metadata Application Profile for Description of Websites with Archived Versions, Version 2," New York Art Resources Consortium Web Archiving Initiative.**](https://sites.google.com/site/nyarc3/web-archiving/8-metadata-for-web-archives)
