@@ -2,6 +2,12 @@
 
 **July 2019**
 
+Policy Sections:
+* [Purpose](#purpose)
+* [Collecting Areas](#collecting-areas)
+* [Permissions to Crawl](#permissions-to-crawl)
+* [Access](#access)
+* [Roles and Responsibilities](#roles-and-responsibilities)
 
 # Purpose
 
