@@ -6,7 +6,6 @@ This document contains citations for resources that particularly informed the de
 * [Case Studies](#case-studies)
 * [Description](#description)
 * [Google Analytics](#google-analytics)
-* [Metadata Models](#metadata-models)
 * [State of the Field Surveys](#state-of-the-field-surveys)
 * [Web Archiving Policies](#web-archiving-policies)
 
@@ -39,6 +38,7 @@ This research gives us a greater understanding of the awareness and use our coll
 [**Venlet, Jessica, Karen Stoll Farrell, Tammy Kim, Allison Jai O’Dell, and Jackie Dooley. 2018. _Descriptive Metadata for Web Archiving: Literature Review of User Needs._ Dublin, OH: OCLC Research**](https://doi.org/10.25333/C33P7Z)
 
 This review characterizes types of end users, their research methodologies, barriers to use, discovery interfaces, and the need for support services and outreach. The review of practitioner literatures addresses the need for scalable practices, the standards and shared practices currently in use, the outcomes of a variety of case studies and other approaches to metadata.
+</br></br>
 
 
 # Case Studies
@@ -53,10 +53,10 @@ As higher education embraces new technologies, university activities-including t
 This case study reviews the planning, methodology, and lessons learned during the first year of Washington and Lee University Library's Web archiving program.
 </br></br>
 
-
 [**Hight, Cliff, Ashley Todd-Diaz, Rebecca Schulte, and Michael Church (2017) "Collaboration Made It Happen! The Kansas Archive-It Consortium," _Journal of Western Archives_: Vol. 8 : Iss. 2 , Article 4**](https://digitalcommons.usu.edu/westernarchives/vol8/iss2/4)
 
 This case study explores the formation, current membership, and future goals  of the Kansas Archive-It Consortium (KAIC), one of the largest consortia contracting with the Web archiving service Archive-It. KAIC, which is composed of the state historical society and five public universities, has its foundation in a statewide culture of collaboration, and participants have agreed on an informal governance structure with a strong commitment to broadening accessible Web resources for researchers. After establishing consortial consistency during its first two years, members have shared documentation with partners and are beginning to do collaborative collecting. In the future, the consortium will seek additional members and work with Archive-It to develop a consortial search tool. This Web archiving collaborative has helped member institutions overcome challenges by having group discussions, sharing documentation and guidelines, and jointly serving a primary user group, Kansas residents.
+</br></br>
 
 
 # Description
@@ -91,11 +91,12 @@ WAM's overall objective was to develop practices for creating consistent metadat
 [**Guenther, Rebecca (2018) "Metadata Application Profile for Description of Websites with Archived Versions, Version 2," New York Art Resources Consortium Web Archiving Initiative**](https://sites.google.com/site/nyarc3/web-archiving/8-metadata-for-web-archives)
 
 This document specifies the core elements that are recommended for describing websites that are both live and have been archived.  It was developed as part of the New York Art Resources Consortium’s Web Archiving Initiative to document web versions of specialist art resources, such as auction catalogues, catalogues raisonnés, artists’ websites, etc. The profile may also be used for other types of web resources for which it is desirable to create rich metadata beyond that which is captured as part of web archiving tools.
-
+</br></br>
 
 [**O'Dell, Allison Jai (2015) "Describing Web Collections," _Medium**](https://medium.com/@allisonjaiodell/describing-web-collections-e32b59893848)
 
 I was recently tasked with setting policy for description of Web collections at the University of Miami Libraries. This task spawned a great deal of mental masturbation: Web collections force us to re-think our assumptions about the nature of a collection and its use cases. They force us to be more conscientious about description. In the interest of professional discourse, here’s a re-cap of my (and my colleagues’) thought process re: description of Web collections.
+</br></br>
 
 
 # Google Analytics
@@ -118,6 +119,7 @@ The following is a guest post by Andra Stump of GPO contractor Zimmerman Associa
 [**Young, Scott W. H., Jason A. Clark, Sara Mannheimer, and Lisa Janicke Hinchliffe (2019) "National Web Privacy Forum Action Handbook," Montana State University**](http://dx.doi.org/10.15788/20190416.15446)
 
 This is a practice-oriented action handbook that provides background, resources, and good practices to guide libraries in ethically implementing web analytics with a view towards privacy. This guide contains two main parts, followed by a references section. In Part 1, we detail technical strategies for implementing privacy-aware web analytics. In Part 2, we focus on communication strategies for building support for privacy-aware analytics practices.
+</br></br>
 
 
 # State of the Field Surveys
@@ -135,6 +137,7 @@ Report on the results of the 2017 survey of U.S. organizations engaged in web ar
 [**Truman, Gail (2016) "Web Archiving Environmental Scan," Truman Technologies report for Harvard Library**](http://nrs.harvard.edu/urn-3:HUL.InstRepos:25658314)
 
 In this environmental scan, made possible by the generous support of the Arcadia Fund, we document web archiving programs from 23 institutions from around the world and report on researcher use of - and impediments to working with - web archives.
+</br></br>
 
 
 # Web Archiving Policies
