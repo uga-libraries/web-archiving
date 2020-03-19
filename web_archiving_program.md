@@ -7,6 +7,7 @@ Policy Sections:
 * [Collecting Areas](#collecting-areas)
 * [Permissions to Crawl](#permissions-to-crawl)
 * [Access](#access)
+* [Preservation](#preservation)
 * [Roles and Responsibilities](#roles-and-responsibilities)
 
 # Purpose
@@ -43,6 +44,11 @@ The owner of the intellectual property rights of any content crawled by the UGA 
 # Access
 
 Unless otherwise requested by the site owner, access to crawls is provided immediately via the Archive-It web interface.
+
+
+# Preservation
+
+The UGA Libraries downloads a copy of all WARCs and a subset of the metadata reports from Archive-It for local preservation in our digital preservation system (ARCHive). While Archive-It does provide good digital preservation of crawled content, it is important for us to have local control over these irreplaceable resources. 
 
 
 # Roles and Responsibilities
