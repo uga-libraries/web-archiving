@@ -20,120 +20,18 @@ The metadata is based on Dublin Core, since that is the metadata standard used b
 
 Extent will also be included once we have the ability to automatically generate it.
 
-
-<table>
-  <tr>
-   <td><strong>Field</strong>
-   </td>
-   <td><strong>Required for Site</strong>
-   </td>
-   <td><strong>Required for Collection</strong>
-   </td>
-   <td><strong>Repeatable?</strong>
-   </td>
-  </tr>
-  <tr>
-   <td>Collector
-   </td>
-   <td>Yes
-   </td>
-   <td>Yes
-   </td>
-   <td>No
-   </td>
-  </tr>
-  <tr>
-   <td>Creator
-   </td>
-   <td>Yes
-   </td>
-   <td>No
-   </td>
-   <td>Yes
-   </td>
-  </tr>
-  <tr>
-   <td>Date
-   </td>
-   <td>Yes
-   </td>
-   <td>Yes
-   </td>
-   <td>No
-   </td>
-  </tr>
-  <tr>
-   <td>Description
-   </td>
-   <td>No
-   </td>
-   <td>Yes
-   </td>
-   <td>No
-   </td>
-  </tr>
-  <tr>
-   <td>Identifier
-   </td>
-   <td>Yes
-   </td>
-   <td>No
-   </td>
-   <td>No
-   </td>
-  </tr>
-  <tr>
-   <td>Language
-   </td>
-   <td>Yes
-   </td>
-   <td>No
-   </td>
-   <td>Yes
-   </td>
-  </tr>
-  <tr>
-   <td>Relation
-   </td>
-   <td>No
-   </td>
-   <td>No
-   </td>
-   <td>Yes
-   </td>
-  </tr>
-  <tr>
-   <td>Rights
-   </td>
-   <td>Yes
-   </td>
-   <td>No
-   </td>
-   <td>Yes
-   </td>
-  </tr>
-  <tr>
-   <td>Subject
-   </td>
-   <td>No
-   </td>
-   <td>No
-   </td>
-   <td>Yes
-   </td>
-  </tr>
-  <tr>
-   <td>Title
-   </td>
-   <td>Yes
-   </td>
-   <td>Yes
-   </td>
-   <td>No
-   </td>
-  </tr>
-</table>
-
+| Field | Required for Site |Required for Collection  |Repeatable|
+| ---   | ---               | ---                     | ---      |
+| [Collector](#collector) 	| Yes 	| Yes 	| No 	|
+| [Creator](#creator) 		| Yes 	| No 	| Yes 	|
+| [Date](#date) 		| Yes 	| Yes 	| No 	|
+| [Description](#description) 	| No 	| Yes 	| No 	|
+| [Identifier](#identifier) 	| Yes 	| No 	| No 	|
+| [Language](#language) 	| Yes 	| No 	| Yes 	|
+| [Relation](#relation) 	| No 	| No 	| Yes 	|
+| [Rights](#rights) 		| Yes 	| No 	| Yes 	|
+| [Subject](#subject) 		| No 	| No 	| Yes 	|
+| [Title](#title) 		| Yes 	| Yes 	| No 	|
 
 
 ## Collector
