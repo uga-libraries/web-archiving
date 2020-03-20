@@ -148,6 +148,8 @@ In this environmental scan, made possible by the generous support of the Arcadia
 
 [**Stanford Libraries**](https://library.stanford.edu/projects/web-archiving/policy)
 
+[**University of Albany**](https://archives.albany.edu//web//webarchives/)
+
 [**Virginia Memory, Library of Virginia**](http://www.virginiamemory.com/collections/archival_web_collections)
 
 
