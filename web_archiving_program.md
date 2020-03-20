@@ -55,7 +55,7 @@ The UGA Libraries downloads a copy of all WARCs and a subset of the metadata rep
 
 The administrator and crawlers make decisions about the program collectively, with input from departments that are considering web archiving in the future as appropriate. This includes managing use of the quota, deciding on the quota required for the next year, and changes to policies and procedures.
 
-* **Administrator:** The Head of Digital Stewardship serves as the administrator of the account and coordinates the program. They manage user accounts and onboard new users, oversee subscription renewals, facilitate communicate between users of Archive-It, and monitor the web archiving landscape to keep our policies and practices in line with professional best practices. Permissions in Archive-It: Administrator.
+* **Administrator:** The Head of Digital Stewardship serves as the administrator of the account and coordinates the program. They manage user accounts and onboard new users, oversee subscription renewals, facilitate communicate between users of Archive-It, and monitor the web archiving landscape to keep our policies and practices in line with professional best practices. Permissions in Archive-It: Administrator. The Russell Library digital archivist (position vacant as of 3/20/2020) serves as the backup administrator.
 
 * **Crawlers:** The primary users of the account. Their responsibilities include running test crawls, quality assurance, saving content to permanent collections, and creating metadata. Permissions in Archive-It: User.
 
