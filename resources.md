@@ -102,15 +102,32 @@ I was recently tasked with setting policy for description of Web collections at 
 
 # Finding Aid Examples
 
-[**Emory University**](https://findingaids.library.emory.edu/documents/eua0009atlhillel/)
+These represent the range of options we observed for how to add web archives to a finding aid. In most cases, we chose to follow Emory's model of including them in a collection finding aid as a separate series. We are considering making finding aids of groups of related web archives (e.g. student life) that do not have a related collection so they are discoverable via our collection search.
 
-[**University of Albany**](https://archives.albany.edu/collections/catalog/apap043aspace_c5982b776cca73d2d2c086bb587b4f17)
+[**Emory University**](http://pid.emory.edu/ark:/25593/bmfk8)
 
-[**University of Illinois at Urbana-Champaign**](https://archives.library.illinois.edu/archon/index.php?p=collections/classifications&id=428)
+Web archives is a separate series within the collection finding aid. Example is the Atlanta Hillel Records, Series 3.
+</br></br>
+
+[**University of Albany**](https://archives.albany.edu/description/catalog/apap043aspace_c5982b776cca73d2d2c086bb587b4f17)
+
+The website is a separate series, which is its own page. Example is the Website of the Business Council of New York State, Inc. Series, part of the Associated Industries of New York State/Business Council of New York State Records.
+</br></br>
+
+[**University of Illinois at Urbana-Champaign**](https://archon.library.illinois.edu/index.php?p=digitallibrary/digitalcontent&id=7118)
+
+The website is a separate finding aid. Example is the ATO Fraternity Website.
+</br></br>
 
 [**University of Virginia**](https://ead.lib.virginia.edu/vivaxtf/view?docId=uva-sc/viu03374.xml&chunk.id=&toc.depth=1&toc.id=&brand=default)
 
+Websites are part of a series with other digital files. Example is the Charlottesville Derby Dames Records, Series V. Virginia is for Shovers.
+</br></br>
+
 [**University of North Carolina at Chapel Hill**](https://finding-aids.lib.unc.edu/40417/)
+
+A collection of websites are described in a single finding aid. Example is The University of North Carolina at Chapel Hill University Archives Collected Websites.
+</br></br>
 
 
 # Google Analytics
