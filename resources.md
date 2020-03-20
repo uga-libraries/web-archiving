@@ -5,6 +5,7 @@ This document contains citations for resources that particularly informed the de
 * [Access and User Needs](#access-and-user-needs)
 * [Case Studies](#case-studies)
 * [Description](#description)
+* [Finding Aid Examples](#finding-aid-examples)
 * [Google Analytics](#google-analytics)
 * [State of the Field Surveys](#state-of-the-field-surveys)
 * [Web Archiving Policies](#web-archiving-policies)
@@ -93,10 +94,23 @@ WAM's overall objective was to develop practices for creating consistent metadat
 This document specifies the core elements that are recommended for describing websites that are both live and have been archived.  It was developed as part of the New York Art Resources Consortium’s Web Archiving Initiative to document web versions of specialist art resources, such as auction catalogues, catalogues raisonnés, artists’ websites, etc. The profile may also be used for other types of web resources for which it is desirable to create rich metadata beyond that which is captured as part of web archiving tools.
 </br></br>
 
-[**O'Dell, Allison Jai (2015) "Describing Web Collections," _Medium**](https://medium.com/@allisonjaiodell/describing-web-collections-e32b59893848)
+[**O'Dell, Allison Jai (2015) "Describing Web Collections," _Medium_**](https://medium.com/@allisonjaiodell/describing-web-collections-e32b59893848)
 
 I was recently tasked with setting policy for description of Web collections at the University of Miami Libraries. This task spawned a great deal of mental masturbation: Web collections force us to re-think our assumptions about the nature of a collection and its use cases. They force us to be more conscientious about description. In the interest of professional discourse, here’s a re-cap of my (and my colleagues’) thought process re: description of Web collections.
 </br></br>
+
+
+# Finding Aid Examples
+
+[**Emory University**](https://findingaids.library.emory.edu/documents/eua0009atlhillel/)
+
+[**University of Albany**](https://archives.albany.edu/collections/catalog/apap043aspace_c5982b776cca73d2d2c086bb587b4f17)
+
+[**University of Illinois at Urbana-Champaign**](https://archives.library.illinois.edu/archon/index.php?p=collections/classifications&id=428)
+
+[**University of Virginia**](https://ead.lib.virginia.edu/vivaxtf/view?docId=uva-sc/viu03374.xml&chunk.id=&toc.depth=1&toc.id=&brand=default)
+
+[**University of North Carolina at Chapel Hill**](https://finding-aids.lib.unc.edu/40417/)
 
 
 # Google Analytics
