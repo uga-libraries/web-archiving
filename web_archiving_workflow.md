@@ -143,7 +143,7 @@ You have 60 days to review and save a test crawl before the content (but not its
 
 Archive-It [provides good digital preservation](https://support.archive-it.org/hc/en-us/articles/208117536-Archive-It-Storage-and-Preservation-Policy) for the copies they maintain. Additionally, UGA Libraries downloads a copy to store onsite to have local control over these critical resources.
 
-*   A [script](https://github.com/uga-libraries/web-aip) automatically downloads new WARCs and selected metadata reports via the Archive-It apis on a quarterly basis and packages them as AIPs ready for ingest into our preservation system (ARCHive). Downloads are in February, May, August, and November on the 1st.
+*   A [script](https://github.com/uga-libraries/web-aip) automatically downloads new WARCs and selected metadata reports via the Archive-It apis on a quarterly basis and packages them as AIPs ready for ingest into our preservation system (ARCHive). Downloads are in February, May, August, and November on the 1st. Even if seeds have been crawled in previous quarters, a new AIP is made for these WARCs, rather than a new version of the existing AIP, so that we do not need to store extra copies of WARCs from previous crawls in each later version of an AIP.
 
 *   Review the AIPs for accuracy. Check for missing seeds that you crawled this quarter, missing metadata reports, and review the error log from the script.
 
