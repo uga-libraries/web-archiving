@@ -141,15 +141,17 @@ You have 60 days to review and save a test crawl before the content (but not its
 
 ## 9. Preservation
 
-Archive-It [provides good digital preservation](https://support.archive-it.org/hc/en-us/articles/208117536-Archive-It-Storage-and-Preservation-Policy) for the copies they maintain. Additionally, UGA Libraries downloads a copy to store onsite to have local control over these critical resources.
+Archive-It [provides good digital preservation](https://support.archive-it.org/hc/en-us/articles/208117536-Archive-It-Storage-and-Preservation-Policy) for the copies they maintain. Additionally, UGA Libraries downloads a copy to store in our local preservation system (ARCHive) to have control over these critical resources using [scripts](https://github.com/uga-libraries/web-aip).
 
-*   A [script](https://github.com/uga-libraries/web-aip) automatically downloads new WARCs and selected metadata reports via the Archive-It apis on a quarterly basis and packages them as AIPs ready for ingest into our preservation system (ARCHive). Downloads are in February, May, August, and November on the 1st. Even if seeds have been crawled in previous quarters, a new AIP is made for these WARCs, rather than a new version of the existing AIP, so that we do not need to store extra copies of WARCs from previous crawls in each later version of an AIP.
+*   Run the metadata_check.py script a week prior to a preservation download to identify any missing required metadata that must be added prior to the download.
 
-*   Review the AIPs for accuracy. Check for missing seeds that you crawled this quarter, missing metadata reports, and review the error log from the script.
+*   Run the web_aip_batch.py script quarterly to download new WARCs and six selected metadata reports via the Archive-It APIs and package them as AIPs ready for ingest into our local preservation system (ARCHive). Downloads start on the first of February, May, August, and November. Even if a seed has been crawled in previous quarters, a new AIP is made for these WARCs, rather than making a new version of the existing AIP, so that we do not need to store extra copies of WARCs from previous crawls in each later version of an AIP.
 
-*   If there are errors, manually download the WARCs and metadata and then use the rest of the script to produce the AIPs.
+*   Review the script outputs for accuracy: error folder (if any), script log, and completeness_check.csv. The completeness_check.csv has the results of the script checking that the AIP folder was made, that the correct number of WARCs and metadata files of each type are present, and that there are no extra files. Also review a small number of master.xml files to verify that the data makes sense.
 
-*   Ingest the AIPs into the ARCHive.
+*   If there are errors, use the web_aip_single.py script to make the AIP again.
+
+*   Add any new related collections to ARCHive, batch validate the master.xml files via the ARCHive interface, and ingest the AIPs into the ARCHive.
 
 
 <!-- Docs to Markdown version 1.0β19 -->
