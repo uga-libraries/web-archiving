@@ -109,7 +109,7 @@ Extent will also be included once we have the ability to automatically generate 
 
 * **Description:** Primary language(s) of the content of the site.
 
-* **Content Rules:** English term for the language from the [ISO 639.2 Code](http://www.loc.gov/standards/iso639-2/php/code_list.php).
+* **Content Rules:** English name of the language from the [ISO 639.2 Code](http://www.loc.gov/standards/iso639-2/php/code_list.php), for example Spanish.
 
 * **Required:** Yes (site).
 
@@ -135,7 +135,7 @@ Extent will also be included once we have the ability to automatically generate 
 
 * **Description:** Rights information governing access or use of the crawled site.
 
-* **Content Rules:** [Rightsstatement.org statement](https://rightsstatements.org/page/1.0/?language=en) or [Creative Commons License](https://creativecommons.org/licenses/) is required. Include both the title and URI so have human-readable information (the title) and a unique identifier (the URI). May optionally include local rights statements, e.g. if a site is embargoed or only accessible via the reading room.
+* **Content Rules:** [Rightsstatement.org statement](https://rightsstatements.org/page/1.0/?language=en) or [Creative Commons License](https://creativecommons.org/licenses/) is required. Include both the title and URI so have human-readable information (the title) and a unique identifier (the URI). May optionally include local rights statements, e.g. if a site is embargoed or only accessible via the reading room. Example: In Copyright: http://rightsstatements.org/vocab/InC/1.0/
 
 * **Required:** Yes (site). Local rights statement is optional.
 
