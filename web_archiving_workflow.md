@@ -71,6 +71,8 @@ Seeds may be crawled as test or one-time production crawls ([from the collection
 
 It is our practice to always run a test crawl on a new site, and any time a site has noticeably changed, to ensure the scoping is correct. Test crawls do not count against the quota until they are saved but other crawl types do.
 
+To limit accidental capture of more data than is intended for scheduled crawls, use a data limit instead of a time limit when scheduling the crawl and/or check the size after each crawl to verify it is remaining within the expected size. Also review the capture periodically to see if the limit is being reached and the scope needs to be adjusted to fully capture the site.
+
 *   Each test crawl should include just one seed or a few similar seeds because test crawls must be saved or deleted in their entirety.
 
 *   The standard crawl only captures sites from the seed domain. To capture sites linked from the seed as well, [use a different seed type](https://support.archive-it.org/hc/en-us/articles/208332843-Assign-and-edit-a-seed-type-).
