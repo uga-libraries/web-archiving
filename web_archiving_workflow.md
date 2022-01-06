@@ -149,11 +149,11 @@ Archive-It [provides good digital preservation](https://support.archive-it.org/h
 
 *   Run the web_aip_batch.py script quarterly to download new WARCs and six selected metadata reports via the Archive-It APIs and package them as AIPs ready for ingest into our local preservation system (ARCHive). Downloads start on the first of February, May, August, and November. Even if a seed has been crawled in previous quarters, a new AIP is made for these WARCs, rather than making a new version of the existing AIP, so that we do not need to store extra copies of WARCs from previous crawls in each later version of an AIP.
 
-*   Review the script outputs for accuracy: error folder (if any), script log, and completeness_check.csv. The completeness_check.csv has the results of the script checking that the AIP folder was made, that the correct number of WARCs and metadata files of each type are present, and that there are no extra files. Also review a small number of master.xml files to verify that the data makes sense.
+*   Review the script outputs for accuracy: error folder (if any), script log, and completeness_check.csv. The completeness_check.csv has the results of the script checking that the AIP folder was made, that the correct number of WARCs and metadata files of each type are present, and that there are no extra files. Also review a small number of preservation.xml files to verify that the data makes sense.
 
 *   If there are errors, use the web_aip_single.py script to make the AIP again.
 
-*   Add any new related collections to ARCHive, batch validate the master.xml files via the ARCHive interface, and ingest the AIPs into the ARCHive.
+*   Add any new related collections to ARCHive, batch validate the preservation.xml files via the ARCHive interface, and ingest the AIPs into the ARCHive.
 
 
 <!-- Docs to Markdown version 1.0β19 -->
