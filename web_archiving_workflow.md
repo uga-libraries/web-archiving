@@ -143,7 +143,7 @@ You have 60 days to review and save a test crawl before the content (but not its
 
 ## 9. Preservation
 
-Archive-It [provides good digital preservation](https://support.archive-it.org/hc/en-us/articles/208117536-Archive-It-Storage-and-Preservation-Policy) for the copies they maintain. Additionally, UGA Libraries downloads a copy to store in our local preservation system (ARCHive) to have control over these critical resources using [scripts](https://github.com/uga-libraries/web-aip).
+Archive-It [provides good digital preservation](https://support.archive-it.org/hc/en-us/articles/208117536-Archive-It-Storage-and-Preservation-Policy) for the copies they maintain. Additionally, the UGA Libraries Archive-It Administrator downloads a copy to store in our local preservation system (ARCHive) to have control over these critical resources using [scripts](https://github.com/uga-libraries/web-aip).
 
 *   Run the metadata_check.py script a week prior to a preservation download to identify any missing required metadata that must be added prior to the download.
 
