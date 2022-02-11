@@ -1,6 +1,6 @@
 # UGA Libraries Web Archiving Program
 
-**July 2019**
+**February 2022**
 
 Policy Sections:
 * [Purpose](#purpose)
@@ -12,7 +12,7 @@ Policy Sections:
 
 # Purpose
 
-The University of Georgia Libraries is engaged in web archiving in order to capture and preserve at-risk content that is in alignment with our collecting areas and to expand collecting into areas like student life, activism, and local elections which are primarily documented through social media.
+The University of Georgia Libraries is engaged in web archiving in order to capture and preserve at-risk content that is in alignment with our collecting areas and to expand collecting into areas like student life, activism, and local elections which are primarily documented through social media. Additionally, we use web archiving in support of our responsibilities as the official depository for Georgia state government publications.
 
 
 # Collecting Areas
@@ -20,6 +20,8 @@ The University of Georgia Libraries is engaged in web archiving in order to capt
 The UGA Libraries will collect websites and social media accounts related to the following areas:
 
 *   Web presence of individuals and organizations who donate papers to the archives.
+
+*   Georgia state government agencies and organizations, with an emphasis on the executive branch.
 
 *   University of Georgia: mission-critical information that is only available in electronic form and student life, which is increasingly best-documented by social media.
 
