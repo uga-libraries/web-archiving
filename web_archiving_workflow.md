@@ -69,9 +69,9 @@ Collections are primarily organized by topic, but can also be by department or c
 
 Seeds may be crawled as test or one-time production crawls ([from the collection's seed list](https://support.archive-it.org/hc/en-us/articles/208001026-Manually-start-test-and-one-time-crawls) or [with InstaCrawl](https://support.archive-it.org/hc/en-us/articles/360013680631-Crawl-new-seeds-immediately-with-InstaCrawl)), or [set on a crawl schedule](https://support.archive-it.org/hc/en-us/articles/208333013-Schedule-crawls).
 
-It is our practice to always run a test crawl on a new site, and any time a site has noticeably changed, to ensure the scoping is correct. Test crawls do not count against the quota until they are saved but other crawl types do.
+It is **highly recommended to use test crawls** as much as possible to responsibility manage our data quota. The first time a site is crawled, a test crawl **must** be used. Test crawls do not count against the quota until they are saved but other crawl types do.
 
-To limit accidental capture of more data than is intended for scheduled crawls, use a data limit instead of a time limit when scheduling the crawl and/or check the size after each crawl to verify it is remaining within the expected size. Also review the capture periodically to see if the limit is being reached and the scope needs to be adjusted to fully capture the site.
+To limit accidental capture of data from scheduled crawls, **all scheduled crawls must use a data limit** instead of a time limit when scheduling the crawl. Also review the capture periodically to see if the limit is being reached and the scope needs to be adjusted to fully capture the site. We have had multiple cases where a website was restructured and a large amount of content we did not want was captured by a scheduled crawl. Archive-It will continue to save this data above our data limit until the schedule crawl finishes, which would make us responsible for paying for the next level of data limit.
 
 *   Each test crawl should include just one seed or a few similar seeds because test crawls must be saved or deleted in their entirety.
 
