@@ -50,7 +50,7 @@ Policy governing the UGA Libraries web archiving program. Areas addressed:
 
 Shared workflow for selecting, crawling, describing, providing access to, and preserving web content. 
 
-## Policy Revision History
+## History
 
 These policies and procedures were initially developed by Adriane Hanson (Digital Stewardship), Brandon Pieczko (Russell Library), and Steve Armour (Hargrett Library) in 2019 and published to GitHub in 2020.
 They were modified by Adriane Hanson and Sarah Causey (MAGIL) in 2022 when MAGIL adopted Archive-It for archiving Georgia state government websites and online publications.
