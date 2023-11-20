@@ -11,11 +11,6 @@ Related scripts for working with Archive-It:
 * [Reports](https://github.com/uga-libraries/web-archive-it-api)
 * [WARC Preservation Download](https://github.com/uga-libraries/web-aip)
 
-# Procedure Overview
-
-*I don't know what to put here for this repo.*
-*It includes the crawling workflow, but also other web policies.*
-
 # Documentation Overview
 
 *As written, this is supposed to be documentation produced by the workflow.*
