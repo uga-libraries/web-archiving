@@ -8,8 +8,8 @@ promoting effective collaboration and a consistent user experience.
 
 Related scripts for working with Archive-It:
 * [PDF Download](https://github.com/uga-libraries/web-download)
-* [Reports](https://github.com/uga-libraries/web-archive-it-api)
-* [WARC Preservation Download](https://github.com/uga-libraries/web-aip)
+* [Preservation Download](https://github.com/uga-libraries/web-aip)
+* [Reports with the API](https://github.com/uga-libraries/web-archive-it-api)
 
 ## Repository Contents
 
