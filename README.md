@@ -13,38 +13,11 @@ Related scripts for working with Archive-It:
 
 ## Repository Contents
 
-### [Metadata Profile](metadata_profile.md)
-
-Definition and usage for Dublin Core metadata fields to describe archived sites (seeds) and Archive-It collections.
-
-### [Resources](resources.md)
-
-Citations for resources that particularly informed the development of the UGA Libraries' web archiving program in 2019,  
-organized into the following categories: 
-* Access and User Needs
-* Case Studies
-* Description 
-* Google Analytics
-* State of the Field Surveys
-* Web Archiving Policies
-
-### [Take Down Policy](take_down_policy.md)
-
-Policy for resolving requests to remove public access to sites we have archived.
-
-### [Web Archiving Program Policy](web_archiving_program.md)
-
-Policy governing the UGA Libraries web archiving program. Areas addressed:
-* Purpose
-* Collecting Areas
-* Permissions to Crawl
-* Access
-* Preservation
-* Roles and Responsibilities
-
-### [Web Archiving Workflow](web_archiving_workflow.md)
-
-Shared workflow for selecting, crawling, describing, providing access to, and preserving web content. 
+   - [Metadata Profile](metadata_profile.md) - Dublin Core metadata fields to describe archived sites (seeds) and Archive-It collections.
+   - [Resources](resources.md) - Citations for resources that informed the development of the UGA Libraries' web archiving program in 2019.
+   - [Take Down Policy](take_down_policy.md) - Policy for resolving requests to remove public access to sites we have archived.
+   - [Web Archiving Program Policy](web_archiving_program.md) - Foundational policy for the UGA Libraries web archiving program.
+   - [Web Archiving Workflow](web_archiving_workflow.md) - Shared workflow for selecting, crawling, describing, providing access to, and preserving web content. 
 
 ## History
 
