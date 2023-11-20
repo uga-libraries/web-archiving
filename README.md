@@ -2,18 +2,14 @@
 
 # Overview
 
-UGA Libraries web archiving program policies and shared workflow documentation.   
+The UGA Libraries uses Archive-It for web archiving.
+These policies and procedures govern the shared use of this tool,
+promoting effective collaboration and a consistent user experience.   
 
 Related scripts for working with Archive-It:
 * [PDF Download](https://github.com/uga-libraries/web-download)
 * [Reports](https://github.com/uga-libraries/web-archive-it-api)
 * [WARC Preservation Download](https://github.com/uga-libraries/web-aip)
-
-# Purpose
-
-The UGA Libraries uses Archive-It for web archiving.
-These policies and procedures govern the shared use of this tool,
-promoting effective collaboration and a consistent user experience.
 
 # Procedure Overview
 
