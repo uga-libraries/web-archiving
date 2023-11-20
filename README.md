@@ -11,11 +11,7 @@ Related scripts for working with Archive-It:
 * [Reports](https://github.com/uga-libraries/web-archive-it-api)
 * [WARC Preservation Download](https://github.com/uga-libraries/web-aip)
 
-## Documentation Overview
-
-*As written, this is supposed to be documentation produced by the workflow.*
-*I needed a place for an annotated list of what is in the repo and this seemed like the best fit.*
-*Unless we want a separate section for a "table of contents" functionality?*
+## Repository Contents
 
 ### [Metadata Profile](metadata_profile.md)
 
