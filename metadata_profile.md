@@ -44,7 +44,7 @@ Extent will also be included once we have the ability to automatically generate 
 
 * **Description:** Department that initiated the crawl.
 
-* **Content Rules:** Hargrett Rare Book and Manuscript Library; Richard B. Russell Library for Political Research and Studies
+* **Content Rules:** Hargrett Rare Book & Manuscript Library; Map and Government Information Library; Richard B. Russell Library for Political Research and Studies
 
 * **Required:** Yes (site and collection). Used to filter the Archive-It collections page to the sites collected by a single department and so researchers know who to contact with questions.
 
